@@ -1,4 +1,6 @@
 PROBLEM STATEMENT-Develop a simple microcontroller based system that can detect the drowsiness of drivers and can alert the driver
+
+
 SCOPE OF THE SOLUTION-
 -Automotive Safety: Alerts drowsy drivers to prevent accidents.  
 - Workplace Safety: Monitors worker alertness in hazardous environments.  
