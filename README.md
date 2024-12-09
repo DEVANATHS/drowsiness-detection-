@@ -29,7 +29,7 @@ Required Components-
 
 
 Simulated Circuit-
-
+![pro2](https://github.com/user-attachments/assets/d1ca2ff8-c31b-4736-b4d5-47b7f25fac50)
 
 
 
