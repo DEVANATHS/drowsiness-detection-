@@ -9,7 +9,7 @@ SCOPE OF THE SOLUTION-
 - Cost-Effective: Affordable solution for mass deployment.
 
 Required Components-
-
+![pro4](https://github.com/user-attachments/assets/79c1a518-79aa-46ec-8921-fe7c1612de3a)
 
 
 
