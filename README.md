@@ -59,6 +59,7 @@ Simulated Circuit-
 
 
 Video Of the Demo-
+https://github.com/user-attachments/assets/339775ae-ba20-489e-a749-20a22ccaaf98
 
 
 
